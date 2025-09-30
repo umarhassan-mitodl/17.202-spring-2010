@@ -23,6 +23,7 @@
     "website": "17-202-graduate-seminar-in-american-politics-ii-spring-2010"
   },
   "course_title": "Graduate Seminar in American Politics II",
+  "hide_download": true,
   "course_description": "This is the second in a sequence of two field seminars in American politics intended for graduate students in political science, in preparation for taking the general examination in American politics. The material covered in this semester focuses on American political institutions. The readings covered here are not comprehensive, but it is sufficiently broad to give students an introduction to major empirical questions and theoretical approaches that guide the study of American political institutions these days.\n",
   "department_numbers": [
     "17"
@@ -33,6 +34,7 @@
     "content": "379df4c4-3b63-4331-fbcc-7a8f50221975",
     "website": "17-202-graduate-seminar-in-american-politics-ii-spring-2010"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Projects with Examples",
     "Written Assignments with Examples"
