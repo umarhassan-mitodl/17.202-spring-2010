@@ -6,8 +6,6 @@ description: Example student essay for an assignment to take a week's readings a
 file: /courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/cfdf0608354b570ab823a398cb93559b_MIT17_202S10_Parties_essay.pdf
 file_size: 117377
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

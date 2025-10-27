@@ -4,8 +4,6 @@ description: Example of a student's weekly one-page memo for the course.
 file: /courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/f0f664433785be7106d4d01c1202d0e7_MIT17_202S10_Congress_II.pdf
 file_size: 67862
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

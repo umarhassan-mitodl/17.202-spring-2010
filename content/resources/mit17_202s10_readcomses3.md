@@ -6,8 +6,6 @@ description: Comments from the course professor on the role of parties in Congre
 file: /courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/5747565276c3811ddbc16384ad4806cb_MIT17_202S10_readcomses3.pdf
 file_size: 89890
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

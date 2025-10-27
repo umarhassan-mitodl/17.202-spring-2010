@@ -6,8 +6,6 @@ description: Example student essay for an assignment to take a week's readings a
 file: /courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/e6e8d39ecd56a31f2e14f2f2b748717e_MIT17_202S10_Bureacracy_es.pdf
 file_size: 109247
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
